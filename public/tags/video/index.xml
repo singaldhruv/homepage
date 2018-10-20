@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on Dhruv Singal</title>
+    <link>https://singaldhruv.github.io/tags/video/</link>
+    <description>Recent content in video on Dhruv Singal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 20 Oct 2017 17:22:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://singaldhruv.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Show and Recall: Learning What Makes Videos Memorable</title>
+      <link>https://singaldhruv.github.io/publication/iccvw2017/</link>
+      <pubDate>Fri, 20 Oct 2017 17:22:50 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/publication/iccvw2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
