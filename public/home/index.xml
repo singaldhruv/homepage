@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Dhruv Singal</title>
+    <link>https://singaldhruv.github.io/home/</link>
+    <description>Recent content in Homes on Dhruv Singal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://singaldhruv.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://singaldhruv.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://singaldhruv.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://singaldhruv.github.io/home/about/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/about/</guid>
+      <description>Hi! I am a first year PhD student in Finance and Economics at Columbia Business School. I am interested in exploring research questions at the intersection of Finance and Computer Science. Previously, I was a research fellow at Adobe Research, Bangalore, where I worked on research projects in Machine Learning, Computer Vision, Data Mining and Marketing.
+I graduated from Department of Computer Science and Engineering, IIT Kanpur in 2016. At IIT Kanpur, I worked on research projects in Machine Learning, Algorithmic Game Theory and Program Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://singaldhruv.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://singaldhruv.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://singaldhruv.github.io/home/contact/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://singaldhruv.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
