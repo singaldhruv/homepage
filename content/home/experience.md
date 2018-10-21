@@ -32,21 +32,6 @@ date_format = "January 2006"
 * Generated intellectual property - *six patent applications* pending at USPTO
   """
 
-
-[[experience]]
-  title = "Tutor"
-  company = "Department of Computer Science and Engineering, IIT Kanpur"
-  company_url = "https://www.cse.iitk.ac.in"
-  location = "Kanpur, India"
-  date_start = "2015-07-23"
-  date_end = "2016-04-28"
-  description = """Worked with faculty instructors - Professor Nitin Saxena (Fall) and Professor Sunil Simon (Spring). Responsibilities included:
-
-* Supervised weekly tutorials and problem solving sessions
-* Assisted the instructors in designing course material, quizzes, labs and exams
- """
-
-
 [[experience]]
   title = "Research Intern"
   company = "Adobe Research"
