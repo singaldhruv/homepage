@@ -15,7 +15,7 @@ weight = 60
 
 ### ESC101: Fundamentals of Computing (Fall 2015 and Spring 2016)
 
-Worked with faculty instructors - Professor [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/) (Fall) and Professor [Sunil Simon](https://www.cse.iitk.ac.in/users/simon/) (Spring) for the core institute course, ESC101 Fundamentals of Computing. Responsibilities included:
+Tutor for the core institute course ESC101 Fundamentals of Computing, with faculty instructors Professor [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/) (Fall) and Professor [Sunil Simon](https://www.cse.iitk.ac.in/users/simon/) (Spring). Responsibilities included:
 
 * Supervised weekly tutorials and problem solving sessions
 * Assisted the instructors in designing course material, quizzes, labs and exams
