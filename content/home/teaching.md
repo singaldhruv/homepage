@@ -15,7 +15,12 @@ weight = 60
 
 ### ESC101: Fundamentals of Computing (Fall 2015 and Spring 2016)
 
-Tutor for the core institute course ESC101 Fundamentals of Computing, with faculty instructors Professor [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/) (Fall) and Professor [Sunil Simon](https://www.cse.iitk.ac.in/users/simon/) (Spring). Responsibilities included:
+Tutor for the core institute course ESC101 Fundamentals of Computing, with faculty instructors Professor [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/) (Fall) and Professor [Sunil Simon](https://www.cse.iitk.ac.in/users/simon/) (Spring).
 
-* Supervised weekly tutorials and problem solving sessions
-* Assisted the instructors in designing course material, quizzes, labs and exams
+## Columbia University
+
+### B8255-001: FinTech: Consumer Financial Services (Spring 2019)
+
+TA for the MBA elective with Professor [Stephen Zeldes](https://www0.gsb.columbia.edu/faculty/szeldes/).
+
+

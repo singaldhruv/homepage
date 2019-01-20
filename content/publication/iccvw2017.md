@@ -8,7 +8,7 @@ publication = "_The IEEE International Conference on Computer Vision Workshops (
 authors = ["Sumit Shekhar", "Dhruv Singal", "Harvineet Singh", "Manav Kedia", "Akhil Shetty"]
 url_preprint = "https://arxiv.org/abs/1707.05357"
 url_project = "https://research.adobe.com/project/video-memorability/"
-url_pdf = "http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w40/Shekhar_Show_and_Recall_ICCV_2017_paper.pdf"
+url_pdf = "files/papers/iccvw2017.pdf"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
