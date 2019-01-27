@@ -20,7 +20,7 @@ Tutor for the core institute course ESC101 Fundamentals of Computing, with facul
 ## Columbia University
 
 ### B8255-001: FinTech: Consumer Financial Services (Spring 2019)
-
-TA for the MBA elective with Professor [Stephen Zeldes](https://www0.gsb.columbia.edu/faculty/szeldes/).
+### B7255-001: FinTech: Consumer Financial Services (Spring 2019)
+TA for the MBA and EMBA elective with Professor [Stephen Zeldes](https://www0.gsb.columbia.edu/faculty/szeldes/).
 
 
