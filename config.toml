@@ -59,10 +59,10 @@ enableGitInfo = false
   organizations = [ { name = "Columbia Business School", url = "https://www8.gsb.columbia.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "dsingal23@gsb.columbia.edu"
+  email = "dhruv.singal@gsb.columbia.edu"
   address = "Columbia Business School, c/o PhD Office, 3022 Broadway, 311 Uris Hall, New York, NY 10027"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 646 853 9739"
@@ -247,7 +247,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:dsingal23@gsb.columbia.edu"
+    link = "mailto:dhruv.singal@gsb.columbia.edu"
 
   [[params.social]]
     icon = "google-scholar"
