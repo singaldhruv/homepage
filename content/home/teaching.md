@@ -13,14 +13,14 @@ weight = 60
 +++
 ## IIT Kanpur
 
-### ESC101: Fundamentals of Computing (Fall 2015 and Spring 2016)
+#### ESC101: Fundamentals of Computing (Core, Fall 2015 and Spring 2016)
 
 Tutor for the core institute course ESC101 Fundamentals of Computing, with faculty instructors Professor [Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/) (Fall) and Professor [Sunil Simon](https://www.cse.iitk.ac.in/users/simon/) (Spring).
 
 ## Columbia University
 
-### B8255-001: FinTech: Consumer Financial Services (Spring 2019)
-### B7255-001: FinTech: Consumer Financial Services (Spring 2019)
+#### B8255: FinTech: Consumer Financial Services (MBA, Spring 2019)
+#### B7255: FinTech: Consumer Financial Services (EMBA, Spring 2019 and Spring 2020)
 TA for the MBA and EMBA elective with Professor [Stephen Zeldes](https://www0.gsb.columbia.edu/faculty/szeldes/).
 
 

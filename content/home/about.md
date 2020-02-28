@@ -1,33 +1,14 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2018-10-20T00:00:00
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 5  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = ""
 
-# List your academic interests.
-# [interests]
-#   interests = [
-#     "Artificial Intelligence",
-#     "Computational Linguistics",
-#     "Information Retrieval"
-#   ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Finance and Economics"
-  institution = "Columbia University"
-  year = "2023 (Expected)"
-
-[[education.courses]]
-  course = "BTech in Computer Science and Engineering"
-  institution = "Indian Institute of Technology Kanpur"
-  year = 2016
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-Hi! I am a PhD student in Finance and Economics at [Columbia Business School](https://www8.gsb.columbia.edu). I am interested in exploring research questions in Asset Pricing and Macro-Finance. Previously, I was a research fellow at [Adobe Research](https://research.adobe.com), Bangalore where I worked on research projects in Machine Learning, Computer Vision, Data Mining and Marketing.
-
-I graduated from [Department of Computer Science and Engineering, IIT Kanpur](https://www.cse.iitk.ac.in) in 2016. At IIT Kanpur, I worked on research projects in Machine Learning, Algorithmic Game Theory and Program Analysis. In my free time, I enjoy reading, swimming and playing football and squash. I also enjoy tabletop gaming, playing the guitar and listening to music.
