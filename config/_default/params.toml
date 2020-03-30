@@ -40,7 +40,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
+privacy_pack = false
 
 
 ############################
@@ -51,7 +51,7 @@ privacy_pack = true
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dhruv.singal@gsb.columbia.edu"
-phone = "+1 646 853 9739"
+phone = ""
 
 # Address
 address = {street = "Columbia Business School, c/o PhD Office, Uris Hall, 3022 Broadway", city = "New York", region = "NY", postcode = "10027", country = "United States", country_code = "US"}

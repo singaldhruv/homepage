@@ -24,7 +24,7 @@ education:
   courses:
   - course: PhD in Finance
     institution: Columbia University
-    year: 2023 (expected)
+    year: Current
   - course: BTech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2016
@@ -43,6 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/singaldhruv/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/singaldhruv
 
 ---
 
